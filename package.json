@@ -1,0 +1,25 @@
+{
+  "name": "week-10-javascript_and_dom_manipulation",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000e\u0000e\u0000k\u00001\u00000\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "bootstrap": "^4.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jespinoza2019/Week10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jespinoza2019/Week10/issues"
+  },
+  "homepage": "https://github.com/jespinoza2019/Week10#readme"
+}
